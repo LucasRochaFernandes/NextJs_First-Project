@@ -6,9 +6,7 @@ export default function Home() {
       <Head>
         <title>Home | Ignews</title>
       </Head>
-      <h1>
-        Hello World oioi <span>Família</span>
-      </h1>
+      <h1>Hello world</h1>
     </>
   );
 }
