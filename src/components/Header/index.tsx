@@ -7,8 +7,8 @@ export function Header() {
     <header className={styles.headerContainer}>
       <div className={styles.headerContent}>
         <img src="/images/logoReact.png" alt="ig.news" />
-        <nav>
-          <a href="/">Home</a>
+        <nav >
+          <a href="/" >Home</a>
           <a href="/Post">Posts</a>
         </nav>
         <SignInButton />

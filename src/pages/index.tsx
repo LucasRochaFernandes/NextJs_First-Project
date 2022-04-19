@@ -12,7 +12,7 @@ export default function Home() {
         <section className={styles.hero}>
           <span>Hey, welcome</span>
           <h1>
-            News about the <span>React</span> world
+            News about the <br /> <span>React</span> world
           </h1>
           <p>
             Get access to all the publications <br />

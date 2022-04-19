@@ -1,11 +1,17 @@
+
 .contentContainer{
-    max-width: 1120px;
+    max-width: 1200px;
+    // background-color: red;
     margin: 0 auto;
     padding: 0 2rem;
     height: calc(100vh - 5rem);
     display: flex;
     align-items: center;
     justify-content: space-between;   
+    img{
+        height: 32.5rem;
+        width: 20.8rem;
+    }
 }
 
 .hero{
